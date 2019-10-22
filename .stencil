@@ -1,8 +1,8 @@
 {
-	"normalStoreUrl": "https://online-stores-sandbox4.mybigcommerce.com",
+	"normalStoreUrl": "https://english-tea-store-sandbox.mybigcommerce.com/",
 	"port": 3000,
-	"clientId": "m9ea35r9l60axnodm66r4m27jzn1zqq",
-	"accessToken": "gwyigxo3jraxidvy2ylxu87zk3cuovg",
+	"clientId": "bw0ugpbajtsxyxy3na6zoyr5grbu4kq",
+	"accessToken": "l5eg5g15zly8dduprj0ul0vzulcxtr3",
 	"customLayouts": {
 		"brand": {},
 		"category": {

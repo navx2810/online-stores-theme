@@ -1,0 +1,14 @@
+{
+	"normalStoreUrl": "https://online-stores-sandbox4.mybigcommerce.com",
+	"port": 3000,
+	"clientId": "m9ea35r9l60axnodm66r4m27jzn1zqq",
+	"accessToken": "gwyigxo3jraxidvy2ylxu87zk3cuovg",
+	"customLayouts": {
+		"brand": {},
+		"category": {
+			"grouped-products.html": "/construction-items/"
+		},
+		"page": {},
+		"product": {}
+	}
+}

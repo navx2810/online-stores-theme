@@ -1,8 +1,8 @@
 {
-	"normalStoreUrl": "https://online-stores-sandbox4.mybigcommerce.com",
+	"normalStoreUrl": "https://northline-express-sandbox.mybigcommerce.com/",
 	"port": 3000,
-	"clientId": "m9ea35r9l60axnodm66r4m27jzn1zqq",
-	"accessToken": "gwyigxo3jraxidvy2ylxu87zk3cuovg",
+	"clientId": "henxt7u61n0mavb130benvk3xrhrq3q",
+	"accessToken": "2yg9f4t6gutceq8udkpls4tc4z5b3xa",
 	"customLayouts": {
 		"brand": {},
 		"category": {

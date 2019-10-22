@@ -1,8 +1,8 @@
 {
-	"normalStoreUrl": "https://online-stores-sandbox4.mybigcommerce.com",
+	"normalStoreUrl": "https://discount-safety-gear-sandbox.mybigcommerce.com",
 	"port": 3000,
-	"clientId": "m9ea35r9l60axnodm66r4m27jzn1zqq",
-	"accessToken": "gwyigxo3jraxidvy2ylxu87zk3cuovg",
+	"clientId": "ohmlxgz6enxlip1qisn8jj5nkbhrf33",
+	"accessToken": "el7bj6aiadyiip8hjcfxe9gs8d79tc",
 	"customLayouts": {
 		"brand": {},
 		"category": {

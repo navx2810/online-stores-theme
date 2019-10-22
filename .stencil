@@ -1,8 +1,8 @@
 {
-	"normalStoreUrl": "https://online-stores-sandbox4.mybigcommerce.com",
+	"normalStoreUrl": "https://us-flag-sandbox.mybigcommerce.com/",
 	"port": 3000,
-	"clientId": "m9ea35r9l60axnodm66r4m27jzn1zqq",
-	"accessToken": "gwyigxo3jraxidvy2ylxu87zk3cuovg",
+	"clientId": "3ii1nk8fa3tfrzi6t9d1k4o19wk4fzf",
+	"accessToken": "1dvoch973if6pdq8smc8emh76iqo62y",
 	"customLayouts": {
 		"brand": {},
 		"category": {

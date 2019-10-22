@@ -1,8 +1,8 @@
 {
-	"normalStoreUrl": "https://lightup5.mybigcommerce.com/",
+	"normalStoreUrl": "https://lightup-sandbox.mybigcommerce.com/",
 	"port": 3000,
-	"clientId": "aksj4peyl82phkkihhlnymlr6q7g9yg",
-	"accessToken": "2t89hrzwsthsghxabyll7pqvzz80m73",
+	"clientId": "lzdzkha15z02sffvqhmwznqzcuy5qce",
+	"accessToken": "lptp7iv9ugi9ehzqtvnp1qwwsqhii3n",
 	"customLayouts": {
 		"brand": {},
 		"category": {

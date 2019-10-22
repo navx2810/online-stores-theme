@@ -1,8 +1,8 @@
 {
-	"normalStoreUrl": "https://online-stores-sandbox4.mybigcommerce.com",
+	"normalStoreUrl": "https://construction-gear-sandbox.mybigcommerce.com/",
 	"port": 3000,
-	"clientId": "m9ea35r9l60axnodm66r4m27jzn1zqq",
-	"accessToken": "gwyigxo3jraxidvy2ylxu87zk3cuovg",
+	"clientId": "hmjdbxds1da47j5ck41f9u5e777q0yd",
+	"accessToken": "o32soj95ctt95zrh58ztpv1lvs0hpyn",
 	"customLayouts": {
 		"brand": {},
 		"category": {
